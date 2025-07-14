@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Maung Noor Islam 
+ * @author Noor Islam S. Mohammad
  */
 import java.util.*;
 public class BenchmarkingSortingAlgorithms {
